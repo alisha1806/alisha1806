@@ -10,14 +10,16 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```python
 class AlishaAS:
     def __init__(self):
         self.name = "Alisha A S"
         self.location = "Tamil Nadu, India"
-        self.degree = "B.Tech - Artificial Intelligence & Data Science"
+        self.degree = "B.Tech - AI & Data Science"
         self.college = "Stella Mary's College of Engineering"
         self.role = "Web Developer & AI/DS Student"
 
@@ -25,10 +27,10 @@ class AlishaAS:
             "languages": ["HTML", "CSS", "Java", "Python"],
             "frameworks": ["Django"],
             "databases":  ["MySQL"],
-            "tools":      ["Git", "GitHub", "VS Code", "Jupyter Notebook"]
+            "tools":      ["Git", "GitHub", "VS Code", "Jupyter"]
         }
 
-        self.fun_fact = "Won 1st place in a Poster Presentation on 'Innovation' 🏆"
+        self.fun_fact = "Won 1st place in a Poster Presentation 🏆"
 
     def motto(self):
         return "Learning by building — one project at a time 🚀"
@@ -38,7 +40,12 @@ me = AlishaAS()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="top">
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
